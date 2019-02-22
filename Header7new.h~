@@ -1,0 +1,9 @@
+#ifndef HEADER7NEW_H
+#define HEADER7NEW_H
+void mgfas4new(const double **u, int n,int ncycle, double m, int a,int b,const double *q, const double *x, const double *y, double R0, double K, double H);
+void mgfas5new(const double **u, int n,int ncycle, double m,int b,const double *q, const double *x, const double *y, double R0, double K, double H);
+const void **nrfunc3new(const double **f,const double **u, int n,const double *q, int a,int b,double R0, double K, double H);
+const void **nrfunc4new(const double **f,const double **u, int n,const double *q,int b,double R0, double K, double H);
+double Stat2new (const double **u,int n, int a,int b, double R0, double K, double H);
+double Stat3new (const double **u,int n,int b, double R0, double K, double H);
+#endif

@@ -1,0 +1,6 @@
+Number of lattices vertically n=33
+Number of the lattice spaces the length of the core occupies b=1
+Defect type m=-1.000000, Frank constant ratio K=0.570000, aspect ratio R0=1.700000, ring radius=3, total energy=8.844516
+Defect type m=1.000000, Frank constant ratio K=0.570000, aspect ratio R0=1.700000, ring radius=33, total energy=8.812216
+Defect type m=-1.000000, Frank constant ratio K=0.575000, aspect ratio R0=1.700000, ring radius=3, total energy=8.847614
+Defect type m=1.000000, Frank constant ratio K=0.575000, aspect ratio R0=1.700000, ring radius=33, total energy=8.855795
